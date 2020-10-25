@@ -1,0 +1,23 @@
+body {
+  background: rgb(242,174,200);
+  background: linear-gradient(0deg, rgba(242,174,200,1) 0%, rgba(222,156,93,1) 100%);
+}
+.App {
+  padding-top: 4rem;
+  min-height: 100vh;
+}
+
+.navbar {
+  background: rgb(77,0,0);
+  background: linear-gradient(0deg, rgba(77,0,0,1) 0%, rgba(190,0,0,0.9640231092436975) 100%);
+  justify-content: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.navbar p {
+  margin-bottom: 0;
+  color: #FFF;
+  text-align: center;
+  font-weight: 500;
+}
